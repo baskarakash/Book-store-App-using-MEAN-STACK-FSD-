@@ -1,0 +1,1 @@
+{"bookname":"lord of the rings part 1","bookdescription":" Begin your journey into Middlearth.The Lord of the Rings" ,"rating":,"genres": {["fanstasy","fiction","adventure"]},"reviews":{"author":ashdshjdf,"rating":4,"reviewtext":"sadfghjkhgfbdvs","createdon":}}
